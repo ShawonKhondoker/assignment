@@ -4,7 +4,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
 strong{
     color: chocolate;
 }
@@ -51,14 +50,14 @@ button{background-color: orangered;
     
 
 .paragara{
-
+    text-align: center;
     align-items: center;
     margin-left: 400px;
     padding: 30px;
     width: 500px;
 }
     
-    .recipies{
+.recipies{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -72,6 +71,7 @@ button{background-color: orangered;
     border: none; 
     border-radius: 6px;
     padding: 20px;
+    box-shadow: 3px 1px 10px 1px;
 }  
 .myre{
     background-color: azure;
